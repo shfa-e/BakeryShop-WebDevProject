@@ -1,5 +1,4 @@
-# BakeryShop - 
-WebDevProject
+# BakeryShop - WebDevProject
 
 To start this website: 
 
